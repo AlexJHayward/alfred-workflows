@@ -4,7 +4,7 @@ A collection of the simple Alfred workflows.
 
 Alfred is a spotlight replacement for macOS that also does a bunch of other stuff, you should check it out.
 
-(The Alfred Website)[https://www.alfredapp.com]
+[The Alfred Website](https://www.alfredapp.com)
 
 ## HTTP Lookup
 
@@ -32,4 +32,4 @@ Triggered by either `randomuuid` or `uuid`, it simply uses the `uuidgen` bash co
 
 The alfred-repos workflow by Dean Jackson is amazing and makes Alfred worth the money all on its own if you're a developer.
 
-(check it out)[https://github.com/deanishe/alfred-repos]
+[check it out](https://github.com/deanishe/alfred-repos)
