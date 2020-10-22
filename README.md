@@ -27,3 +27,9 @@ There's a environment variable to specify the jira instance URL.
 <img src="https://github.com/AlexJHayward/alfred-workflows/blob/master/img/uuid.png" width="256" title="UUID Workflow">
 
 Triggered by either `randomuuid` or `uuid`, it simply uses the `uuidgen` bash command (which is packaged by default on MacOS and probably other distros too) to generate a random uuid, converts it lowercase, then drops it in the clipboard.
+
+## Workflows not made by me
+
+The alfred-repos workflow by Dean Jackson is amazing and makes Alfred worth the money all on its own if you're a developer.
+
+(check it out)[https://github.com/deanishe/alfred-repos]
