@@ -30,6 +30,12 @@ Triggered by either `randomuuid` or `uuid`, it simply uses the `uuidgen` bash co
 
 ## Workflows not made by me
 
+### alfred-repos
 The alfred-repos workflow by Dean Jackson is amazing and makes Alfred worth the money all on its own if you're a developer.
 
 [check it out](https://github.com/deanishe/alfred-repos)
+
+### Numi
+A companion to the numi app that lets you calculate and convert pretty much anything.
+
+[workflow](https://github.com/nikolaeu/Numi/wiki/Documentation#alfred)
