@@ -28,6 +28,24 @@ There's a environment variable to specify the jira instance URL.
 
 Triggered by either `randomuuid` or `uuid`, it simply uses the `uuidgen` bash command (which is packaged by default on MacOS and probably other distros too) to generate a random uuid, converts it lowercase, then drops it in the clipboard.
 
+## Oblique Strategy
+
+<img src="https://github.com/AlexJHayward/alfred-workflows/blob/master/img/oblique_keyword.png" width="256" title="Oblique Strategy Worflow Keyword">
+
+<img src="https://github.com/AlexJHayward/alfred-workflows/blob/master/img/oblique_result.png" width="256" title="Oblique Strategy Worflow Result">
+
+Retrieves one of the Oblique Strategies from [this website](http://stoney.sb.org/eno/oblique.html), then displays it in large text on the screen. Really convenient when you don't have the physical deck at hand.
+
+This is up here for free, but consider buying a physical pack to support a really useful creative resource. You can find them [here](https://www.enoshop.co.uk/product/oblique-strategies.html)
+
+## Lorem Ipsum
+
+<img src="https://github.com/AlexJHayward/alfred-workflows/blob/master/img/lorem_keyword.png" width="256" title="Lorem Ipsum Worflow Keyword">
+
+<img src="https://github.com/AlexJHayward/alfred-workflows/blob/master/img/lorem_result.png" width="256" title="Lorem Ipsum Worflow Result">
+
+Grabs the default result from [loripsum.net](https://loripsum.net/api/plaintext)'s API and sticks it in the clipboard.
+
 ## Workflows not made by me
 
 ### alfred-repos
